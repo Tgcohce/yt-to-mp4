@@ -17,4 +17,4 @@
 
 ## Acknowledgments
 
-This project was developed as part of my internship, where I worked on tools to streamline media downloading workflows. Special thanks to my mentors and team for their guidance and support throughout this project.
+This project was developed as part of my internship

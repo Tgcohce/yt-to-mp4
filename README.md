@@ -1,6 +1,5 @@
 # YouTube to MP4 Downloader
-*Created 
-This project is a Streamlit app that allows users to download YouTube videos in MP4 format. Users can simply input a YouTube URL, and the app will process and provide a download link for the video in MP4 format.
+*This project is a Streamlit app that allows users to download YouTube videos in MP4 format. Users can simply input a YouTube URL, and the app will process and provide a download link for the video in MP4 format.*
 
 ## Features
 - Input a YouTube video URL to download in MP4 format.
